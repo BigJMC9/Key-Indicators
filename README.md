@@ -11,15 +11,15 @@ Key Indicators is a lightweight application for Windows 10 that indicates the st
 ## Installation
 
 1. Download the latest release from the [Releases](https://github.com/BigJMC9/Key-Indicators/releases/) page.
-2. Run the installer and follow the on-screen instructions.
-3. Once installed, the application will automatically start and run in the background.
+2. Unzip the Application.
+3. Once Unzipped, the application can be ran and accessed in the system tray.
 
 ## Usage
 
 - Upon launching, Key Indicators will appear in the system tray.
 - The icons in the system tray represent the status of Caps Lock, Scroll Lock, and Num Lock keys.
 - Clicking on the Key Indicators icon in the system tray will toggle the application window between minimized and visible states.
-- To exit the application, right-click on the Key Indicators icon in the system tray and select "Exit."
+- To exit the application, right-click on the Key Indicators icon in the system tray and select "Exit." or press the "X" button to close the window when not minimized.
 
 ## Development
 
