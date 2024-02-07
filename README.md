@@ -1,6 +1,7 @@
 # Key Indicators
 
-Key Indicators is a lightweight application for Windows 10 that indicates the status of Caps Lock, Scroll Lock, and Num Lock keys. It resides in the system tray, providing a convenient visual cue about the state of these keys.
+Key Indicators is a lightweight application for Windows 10 that indicates the status of Caps Lock, Scroll Lock, and Num Lock keys. It resides in the system tray, providing a convenient visual cue about the state of these keys. 
+This application is mainly a software solution for keyboards that do not provide indication lights on these keys.
 
 ## Features
 
