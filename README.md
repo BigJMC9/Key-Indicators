@@ -31,4 +31,4 @@ Key Indicators is developed using [C#](https://docs.microsoft.com/en-us/dotnet/c
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
