@@ -10,7 +10,7 @@ Key Indicators is a lightweight application for Windows 10 that indicates the st
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/lock-indicator/releases) page.
+1. Download the latest release from the [Releases](https://github.com/BigJMC9/Key-Indicators/releases/) page.
 2. Run the installer and follow the on-screen instructions.
 3. Once installed, the application will automatically start and run in the background.
 
